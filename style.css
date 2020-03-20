@@ -1,0 +1,17 @@
+body {
+    background-image: url(/download.jpeg);
+}
+
+#animebuttons {
+    border-color: black;
+    color: blueviolet;
+}
+
+.gifs {
+    border-color: black;
+
+}
+
+.write{
+    border-color: blue;
+}
